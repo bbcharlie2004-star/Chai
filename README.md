@@ -1,2 +1,1 @@
-# Chai
-korea
+# chai
